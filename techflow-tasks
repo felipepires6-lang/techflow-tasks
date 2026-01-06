@@ -1,0 +1,6 @@
+src/
+tests/
+docs/
+.github/workflows/
+README.md
+requirements.txt
