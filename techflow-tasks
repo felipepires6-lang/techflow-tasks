@@ -1,6 +1,17 @@
-src/
-tests/
-docs/
-.github/workflows/
-README.md
-requirements.txt
+techflow-tasks/
+│
+├── src/
+│   └── app.py
+│
+├── tests/
+│   └── test_tasks.py
+│
+├── docs/
+│   └── diagramas.md
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── README.md
+└── requirements.txt
